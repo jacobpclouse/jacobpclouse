@@ -3,8 +3,7 @@
 ![Follow Me](https://img.shields.io/github/followers/jacobpclouse.svg?style=social&label=Follow&maxAge=2592000)
 <!--
 **jacobpclouse/jacobpclouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 - 🔭 I’m currently working on getting my Pentest + CompTIA Certification.
 - 🌱 I’m currently learning COBOL, MVS Assembler and ReactJS. 
