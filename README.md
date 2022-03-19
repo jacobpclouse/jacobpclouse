@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on getting my Pentest + CompTIA Certification.
 - 🌱 I’m currently learning COBOL, MVS Assembler and ReactJS. 
-- 🔭 I’m looking for helping with the PerfSONAR toolkit.
+- 📡 I’m looking for helping with the PerfSONAR toolkit.
 - 💬 Ask me about my work at the <a href="http://www.coeymanshistory.org/A/">Ravena Coeymans Historic Society.</a>
 - 📫 How to reach me: at my LinkedIn page <a href="https://www.linkedin.com/in/jpclouse/">here.</a>
-- 😄 Pronouns: he/him
+- 🖖 Pronouns: he/him
 
 
 ### Languages
