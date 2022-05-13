@@ -5,7 +5,7 @@
 Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 - 🔭 I’m currently working on getting my Pentest + CompTIA Certification.
-- 🖥️ I’m currently learning COBOL, MVS Assembler and ReactJS. 
+- 🖥️ I’m currently learning COBOL, MVS Assembler, DB2 and ReactJS. 
 - 📡 I’m looking for help with the PerfSONAR toolkit.
 - 💬 Ask me about my work at the <a href="http://www.coeymanshistory.org/A/">Ravena Coeymans Historic Society.</a>
 - 📫 How to reach me: at my LinkedIn page <a href="https://www.linkedin.com/in/jpclouse/">here.</a>
