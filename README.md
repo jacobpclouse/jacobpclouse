@@ -1,7 +1,7 @@
 # My Name is <a href="https://www.jacobpclouse.com/">Jacob Clouse</a> ![Follow Me](https://img.shields.io/github/followers/jacobpclouse.svg?style=social&label=Follow&maxAge=2592000)
 > *Software Developer NYS ITS | Computer Science Graduate Student* 
 <!--
-**jacobpclouse/jacobpclouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jacobpclouse/jacobpclouse** 1 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 - 🔭 I’m currently working on getting my Pentest + CompTIA Certification.
