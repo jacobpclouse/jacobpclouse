@@ -19,6 +19,7 @@ Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 ### Frameworks & Technologies
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white), ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white), ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white), ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white), ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
+<!--
 ### GitHub Stats
 <p align="center">
 <a href="https://github.com/jacobpclouse">
@@ -26,3 +27,4 @@ Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobpclouse&layout=compact&hide_border=true" alt="Jacob's Language Stats" />
 </a>
 </p>
+-->
