@@ -1,4 +1,4 @@
-# My Name is <a href="https://www.jacobpclouse.me/">Jacob Clouse</a> ![Follow Me](https://img.shields.io/github/followers/jacobpclouse.svg?style=social&label=Follow&maxAge=2592000)
+# My Name is <a href="https://jacobpclouse.me/">Jacob Clouse</a> ![Follow Me](https://img.shields.io/github/followers/jacobpclouse.svg?style=social&label=Follow&maxAge=2592000)
 > *Software Developer NYS ITS | Computer Science Graduate Student* 
 <!--
 **jacobpclouse/jacobpclouse** 1 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
