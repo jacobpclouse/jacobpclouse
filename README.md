@@ -4,7 +4,7 @@
 **jacobpclouse/jacobpclouse** 1 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-- 🔭 I’ve earned my CompTIA Pentest+, Security+, and ITF+ certifications.
+- 🔭 I’ve earned my CompTIA CySA+, Pentest+, Security+, and ITF+ certifications.
 - 🖥️ I’m currently learning Angular, Python, Flask, MongoDB and ReactJS. 
 - 📡 I’m looking for help with the PerfSONAR toolkit.
 - 💬 Ask me about my work at the <a href="http://www.coeymanshistory.org/A/">Ravena Coeymans Historic Society.</a>
