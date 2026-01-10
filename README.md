@@ -27,10 +27,24 @@ Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 ### GitHub Stats
-<p align="center">
+
+<a href="https://github.com/jacobpclouse/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=jacobpclouse&theme=dark" />
+</a>
+<a href="https://github.com/jacobpclouse/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jacobpclouse&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<br>
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=jacobpclouse&theme=dark)](https://github.com/jacobpclouse/github-readme-stats-fast)
+
+
+
+<!-- <p align="center">
 <a href="https://github.com/jacobpclouse">
  <img src="https://github-readme-stats.vercel.app/api?username=jacobpclouse&show_icons=true&hide=stars&hide_border=true" alt="Jacob's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobpclouse&layout=compact&hide_border=true" alt="Jacob's Language Stats" />
 </a>
-</p>
+</p> -->
 
