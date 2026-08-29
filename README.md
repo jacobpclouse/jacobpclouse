@@ -11,7 +11,7 @@ Link to the icons used below: https://dev.to/envoy_/150-badges-for-github-pnk
 - 📡 I’m looking for help with the PerfSONAR toolkit.
 -->
 - 🔭 I’ve earned my CompTIA CySA+, Pentest+, Security+, and ITF+ certifications.
-- 🖥️ I’m currently learning .NET, Python, Flask, MongoDB and ReactJS. 
+- 🖥️ I’m currently working with C++, Python, PHP, COBOL and more. 
 - 📡 I’m looking for help with writing Cyptographic Algorithms.
 - 💬 Ask me about my work at the <a href="http://www.coeymanshistory.org/A/">Ravena Coeymans Historic Society.</a>
 - 📫 How to reach me: at my LinkedIn page <a href="https://www.linkedin.com/in/jpclouse/">here.</a>
